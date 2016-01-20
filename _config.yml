@@ -1,0 +1,28 @@
+name: Diamond
+favicon: null
+layout_spectrum: 0.914932506158948
+typography_spectrum: 0.7443611465860158
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8402830918785185
+  lightness: 0.47946055606007576
+  saturation: 0.15856601507402956
+  rhythmicContrast: 0.39234517863951623
+purpose: []
